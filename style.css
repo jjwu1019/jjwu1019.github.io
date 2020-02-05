@@ -54,7 +54,7 @@ a {
 #bio-name {
     position: absolute;
     top: 150px;
-    left: 30px;
+    left: 20px;
 }
 
 #main-bio {
@@ -66,5 +66,5 @@ a {
 }
 
 #bio-image {
-    text-align: center;
+    padding-left: 0px;
 }
